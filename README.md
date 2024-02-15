@@ -1,9 +1,9 @@
-#Pizza Sales Analysis Project
+#Pizza Sales Analysis Project🍕
 
 Overview:
 This project analyzes pizza sales data using MySQL and visualizes the insights using Power BI. The dataset contains information about pizza orders, customer demographics, sales trends, and more.
 
-Dataset:
+Dataset📊:
 The dataset used in this project is stored in MySQL and consists of multiple tables including:
 
 Orders
@@ -12,7 +12,7 @@ Products
 Sales
 etc.
 
-Tools Used:
+Tools Used⚒:
 MySQL: Used for data storage, retrieval, and analysis.
 Power BI: Utilized for creating interactive dashboards and visualizations.
 
@@ -33,14 +33,14 @@ follow these steps:
 4.Open the Power BI files in visualizations/ and connect them to the MySQL database.
 5.Customize the visualizations and dashboards as per your requirements.
 
-Visualizations:
+Visualizations📈:
 
 Dashboard 1: Customer demographics and preferences.
 Dashboard 2: Sales trends and forecasts.
 
-Contributors
+Contributors👨‍💼:
 Hemnath MR
 
-Feedback
+Feedback💭:
 If you have any suggestions, feedback, or questions, please feel free to open an issue or reach out to [Your Email Address].
 
